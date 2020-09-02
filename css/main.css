@@ -1,0 +1,230 @@
+ul{
+    font-size:30px;
+    
+}
+nav ul li {
+  list-style-type: none;
+  display:flex;
+  float:center;
+  padding:20px;
+  color: #C24513;
+}
+nav ul {
+  display: flex;
+  padding-left: 320px;
+  font-color:#e47d7d;
+  border:#611e03;
+  float:center;
+  font-size: 50px;
+}
+nav ul li a:hover{
+    background-color:#d6991e;
+    color:black;
+}
+h4{
+    text-align:center;
+    font-size:80px;
+}
+
+*{
+	padding:0px;
+	margin:0px;
+}
+.panel{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    padding-right:20px;
+    
+}
+h6{
+	text-align: center;
+	font-size:40px;
+    padding-top:40px;
+}
+img {
+    background-color: grey;
+
+}
+.caption h1,h2,h3 {
+    display: block;
+    font-size:20px;
+}
+.test{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    padding-right:30px;
+ }  
+ .tion h1,h2,h3 {
+    display: block;
+    font-size:20px;
+}
+.container{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.on h1,h2,h3 {
+    display: block;
+    font-size:20px;
+}
+
+.tests{
+	padding-top:8px;
+	padding-left:70px;
+}
+
+.pic{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.in h1,h2,h3 {
+    display: block;
+    font-size:20px;
+}
+
+.big{
+	padding-top:90px;
+	padding-left:70px;
+}
+.cat{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right:30px;
+
+}
+.out h1,h2,h3 {
+    display: block;
+    font-size:20px;
+}
+
+.check{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.off h1,h2,h3 {
+    display: block;
+    font-size:20px;
+}
+.pat{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.offs h1,h2,h3 {
+    display: block;
+    font-size:20px;
+}
+
+.use{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+
+.ps h1,h2,h3{
+    display: block;
+    font-size:30px;
+}
+.Joy{
+	padding-top:30px;
+	padding-left:70px;
+}
+.jann{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.ann h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
+.panel1{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.panel2 h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
+.panel3{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.panel4 h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
+
+.panel5{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.panel6 h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
+
+.panel7{
+	padding-top:30px;
+	padding-left:70px;
+    padding-bottom: 40px;
+}
+.panel8{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.panel9 h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
+
+.panel10{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.panel11 h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
+
+.panel12{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.panel13 h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
+.panel14{
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+	padding-right: 30px;
+}
+.panel15 h1,h2,h3{
+    display: block;
+    font-size:20px;
+}
